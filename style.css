@@ -1,0 +1,61 @@
+  html {
+      background: #F8F8FF;
+  }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+h4 {
+    text-align: left;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: right;
+}
+
+p {
+    text-align: center;
+}
+
+p1 {
+    text-align: left;
+}
+
+p2 {
+    text-align: center;
+}
+
+p3 {
+    text-align: left;
+}
+
+p4 {
+    text-align: center;
+}
+
+p5 {
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
