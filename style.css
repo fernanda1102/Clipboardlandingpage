@@ -7,11 +7,13 @@ html {
 }
 
 #logo {
+    vertical-align: top;
     margin-left: 45%;
-    margin-top: -50%;
+    margin-top:-10%;
 }
 
 h1 {
+    margin-left: 00%;
     text-align: center;
 }
 
@@ -145,6 +147,40 @@ h2 {
     vertical-align: top;
     margin-top: 4%;
     margin-left: -20%;
+}
+
+.logo-vector-graphics {
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 80%;
+}
+
+.logo-hp {
+    display: inline-block;
+    margin-top: -5%;
+    margin-left: 60%;
+}
+
+.logo-microsoft {
+    display: inline-block;
+    margin-top: -5%;
+    margin-left: -30%;
+}
+
+.logo-ibm {
+    display: inline-block;
+    margin-top: -5%;
+    margin-left: -30%;
+}
+
+.logo-google {
+    display: inline-block;
+    margin-top: -5%;
+    margin-left: -30%;
+}
+
+.textfinal {
+    margin-top: 10%;
 }
 
 .buttonsecond {
