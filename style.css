@@ -189,6 +189,11 @@ h2 {
     margin-left: 0%;
 }
 
+.information {
+    background: #DCDCDC;
+    margin-top: 10%;
+}
+
 .attribution {
     width: 100%;
     font-size: 11px;
