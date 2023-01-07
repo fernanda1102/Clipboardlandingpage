@@ -189,6 +189,10 @@ h2 {
     margin-left: 0%;
 }
 
+nav li {
+    display: inline;
+}
+
 .information {
     background: #DCDCDC;
     margin-top: 10%;
