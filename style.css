@@ -15,6 +15,7 @@ html {
 h1 {
     margin-left: 00%;
     text-align: center;
+    font-size: Bai Jamjuree;
 }
 
 p {
@@ -190,24 +191,30 @@ h2 {
 }
 
 .logo {
-    margin-top: 10%;
+    margin-top: 8%;
     margin-left: 10%;
     width: 3%;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 25px;
+    margin: 0 0 0 30px;
 }
 
 .social {
     display: inline;
     margin: 0 0 0 25px;
-    margin-right: 50%;
+    padding: 10% 0 0 75%;
 }
-.information {
+
+.fundo {
     background: #DCDCDC;
-    margin-top: -5%;
+    margin-top: 5%;
+    height: 200px;
+}
+
+.information {
+    margin-top: -2%;
     margin-left: 20%;
 }
 
@@ -216,7 +223,7 @@ nav li {
     font-size: 11px;
     text-align: center;
     color: black;
-    margin-top: 10%;
+    margin-top: 3%;
     margin-left: 0%;
 }
 
