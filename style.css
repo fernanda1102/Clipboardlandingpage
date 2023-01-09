@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+
+:root {
+    --font-family: 'Bai Jamjuree', sans-serif;
+    --primary-color: #363636 ;
+
+}
+
 html {
       background: #F8F8FF;
   }
@@ -15,22 +23,25 @@ html {
 h1 {
     margin-left: 00%;
     text-align: center;
-    font-size: Bai Jamjuree;
+    font-family: var(--font-family);
 }
 
 p {
     text-align: center;
     width: 50%;
     margin-left: 25%;
+    font-family: var(--font-family);
 }
 
 .buttonfirst {
     margin-left: 40%;
     margin-left: 41%;
+    font-family: var(--font-family);
 }
 
 h2 {
     text-align: center;
+    font-family: var(--font-family);
 }
 
 .image-computer {
@@ -45,6 +56,7 @@ h2 {
     width: 50%;
     margin-left: 45%;
     margin-top: -30%;
+    font-family: var(--font-family);
 }
 
 .titulo1 {
@@ -52,6 +64,7 @@ h2 {
     display: inline-block;
     width: 50%;
     margin-left: 10%;
+    font-family: var(--font-family);
 }
 
 .text1 {
@@ -61,14 +74,17 @@ h2 {
     margin-left: 10%;
     vertical-align: top;
     margin-top: -1%;
+    font-family: var(--font-family);
 }
 
 .textcentral {
     text-align: center;
+    font-family: var(--font-family);
 }
 
 .textcentral_2 {
     text-align: center;
+    font-family: var(--font-family);
 }
 
 .imagedevices{
@@ -78,6 +94,7 @@ h2 {
 
 .text_3 {
     margin-top: 2%;
+    font-family: var(--font-family);
 }
 
 .iconblacklist {
@@ -90,6 +107,7 @@ h2 {
     display: inline-block;
     width: 20%;
     margin-left: 20%;
+    font-family: var(--font-family);
     
 }
 
@@ -100,6 +118,7 @@ h2 {
     vertical-align: top;
     margin-top: 4%;
     margin-left: -25%;
+    font-family: var(--font-family);
    
 }
 
@@ -115,6 +134,7 @@ h2 {
     vertical-align: top;
     margin-top: 1%;
     margin-left: 0%;
+    font-family: var(--font-family);
     
 }
 
@@ -125,6 +145,7 @@ h2 {
     vertical-align: top;
     margin-top: 4%;
     margin-left: -20%;
+    font-family: var(--font-family);
 }
 
 .iconpreview {
@@ -139,6 +160,7 @@ h2 {
     vertical-align: top;
     margin-top: 1%;
     margin-left: 0%;
+    font-family: var(--font-family);
 }
 
 .text4 {
@@ -148,6 +170,7 @@ h2 {
     vertical-align: top;
     margin-top: 4%;
     margin-left: -20%;
+    font-family: var(--font-family);
 }
 
 .logo-vector-graphics {
@@ -182,12 +205,14 @@ h2 {
 
 .textfinal {
     margin-top: 10%;
+    font-family: var(--font-family);
 }
 
 .buttonsecond {
     text-align: center;
     margin-top: 2%;
     margin-left: 0%;
+    font-family: var(--font-family);
 }
 
 .logo {
@@ -207,6 +232,24 @@ nav li {
     padding: 10% 0 0 75%;
 }
 
+.DownloadforiOS {
+    padding: 8px 15px;
+    border: 0;
+    background: #3CB371;
+    border-radius: 20px;
+    margin-top: 40px;
+    color: white;
+  }
+
+.DownloadforMac {
+    padding: 8px 15px;
+    border: 0;
+    background: #20B2AA;
+    border-radius: 20px;
+    margin-top: 40px;
+    color: white;
+  }
+
 .fundo {
     background: #DCDCDC;
     margin-top: 5%;
@@ -216,6 +259,7 @@ nav li {
 .information {
     margin-top: -2%;
     margin-left: 20%;
+    font-family: var(--font-family);
 }
 
 .attribution {
